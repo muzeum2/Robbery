@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+#specyficzne dla mojego projektu
+ustawienia.php
+
+
+
 # =========================
 # Operating System Files
 # =========================
